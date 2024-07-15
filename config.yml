@@ -41,7 +41,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "vivek's blog"
+    description: "ben's blog"
     # author: vivek R
 
     defaultTheme: auto
@@ -78,11 +78,11 @@ params:
           - Feel free to go though them and leave feedback. You are most welcome.
     socialIcons:
         - name: github
-          url: "https://github.com/123vivekr"
+          url: "https://github.com/bannawandoor27"
         - name: twitter
           url: "https://twitter.com/theroyalkonkani"
         - name: linkedin
-          url: "https://www.linkedin.com/in/123vivekr/"
+          url: "https://www.linkedin.com/in/hasanul-banna-aka-ben/"
 
     editPost:
         URL: "https://github.com/bannawandoor27/bannawandoor27.github.io/tree/main/content"
