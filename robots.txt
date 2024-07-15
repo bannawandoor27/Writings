@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://bannawandoor27.github.io/Writings/sitemap.xml
+Sitemap: https://read.hasanulbanna.in/sitemap.xml
