@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>vivek&#39;s blog</title>
+    <title>ben&#39;s blog</title>
     <link>https://bannawandoor27.github.io/Writings/</link>
-    <description>Recent content on vivek&#39;s blog</description>
+    <description>Recent content on ben&#39;s blog</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 18 Sep 2022 12:55:00 +0530</lastBuildDate>
@@ -65,7 +65,7 @@ In the video, the user selects the clip to be used and clicks on the “Track ob
       <link>https://bannawandoor27.github.io/Writings/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://bannawandoor27.github.io/Writings/about/</guid>
-      <description>I am vivek and I build stuff.
+      <description>I am ben and I build stuff.
 Primarily a software engineer interested in web, linux, system design and machine learning. Here I&amp;rsquo;ll be documenting my software development journey along with a myraid of other things which I&amp;rsquo;m deeply interested in.
 If you find my work interesting, do feel free to contact me on one of my social media platforms. I&amp;rsquo;m most active on my twitter.</description>
     </item>

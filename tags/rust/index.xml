@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Rust on vivek&#39;s blog</title>
+    <title>Rust on ben&#39;s blog</title>
     <link>https://bannawandoor27.github.io/Writings/tags/rust/</link>
-    <description>Recent content in Rust on vivek&#39;s blog</description>
+    <description>Recent content in Rust on ben&#39;s blog</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 08 Feb 2022 20:57:21 +0530</lastBuildDate>
